@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/2016333726_1280228252_223132457.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_2749312006_3256495558.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_2782984931_3843707686.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_1216137402_2354934968.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_2782984931_780746403.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_1216137402_3561565375.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_2782984931_4027391930.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_1216137402_4201199647.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_2782984931_2912128647.mp4'
+file 'file:/Users/roshankareer/VSCode Projects/Manim-test/media/videos/main/720p30/partial_movie_files/FirstExample/543634251_1216137402_1124777858.mp4'
